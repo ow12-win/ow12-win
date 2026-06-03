@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Oscar and I am an 18 year old currently studying Computer<br>Science at the University of Kent. Computer Science is something I have<br>always been passionate about and since a young age I have been completing<br>independent projects alongside my studies. In addition to my academic work, I<br>have completed a range of extracurriculars, including an NPLQ Lifeguarding<br>Qualification and serving as a subject prefect for both mathematics and<br>computer science. These roles have strengthened my leadership,<br>communication and team working skills, whilst also giving me the opportunity<br>to support and inspire young students in their learning.
+My name is Oscar and I am an 18 year old currently studying Computer<br>Science at the University of Kent. Computer Science is something I have<br>always been passionate about and since a young age I have been completing<br>independent projects alongside my studies. In addition to my academic work, I<br>have completed a range of extracurriculars, including serving as a subject prefect for both mathematics and<br>computer science. These roles have strengthened my leadership,<br>communication and team working skills, whilst also giving me the opportunity<br>to support and inspire young students in their learning.
 
 
 # 💻 Tech Stack:
