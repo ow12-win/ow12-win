@@ -1,0 +1,27 @@
+TOOLKIT UPGRADE
+
+GitHub README
+Replace README.md and upload every file in assets. All sixteen tools now use
+custom vector icons with recognisable shapes and a stronger green glow loop.
+The existing profile artwork, CV facts and contact details are retained.
+
+Real hover effects
+Open interactive-toolkit.html in a normal browser. It is one self-contained
+file with all icons, CSS and JavaScript embedded, and no remote dependencies.
+Hover a card to brighten its border and icon. The light follows your pointer.
+Tab between cards to see the same highlight with keyboard focus. Select a
+card to keep its details visible; Escape clears the selection.
+
+GitHub strips CSS from the README itself, and hover events do not reach an
+image's internal content. The hover page therefore runs separately from the
+README. It has not been deployed and there is no new live URL in the README.
+The README uses an animated GIF and still SVG alternative for reduced motion.
+
+The HTML page can be hosted later, for example through GitHub Pages, and then
+linked from the profile. Keep the local version for review first.
+
+Editing the icons
+Custom icon sources: scripts/toolkit-icons.cjs
+Rebuild HTML and toolkit rendering code: node scripts/build-interactive.cjs
+Render images: node scripts/render-glow.cjs (requires sharp)
+Encode loops: python3 scripts/encode-glow.py (requires Pillow)
